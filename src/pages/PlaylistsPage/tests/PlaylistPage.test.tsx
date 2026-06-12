@@ -40,8 +40,6 @@ describe('Тест компонента PlaylistPage', () => {
             searchGenre: 'me',
             searchName: ''
         })
-
-        // Как написать тест, чтобы и searchName & searchGenre был заполнен!?
     })
 
 })
